@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: mall-search
+
+  cloud:
+    nacos:
+      config:
+        server-addr: localhost:8848
+        namespace: f4d24aec-4855-4514-ad65-c58d6f893808
+
+
