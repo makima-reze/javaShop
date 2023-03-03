@@ -6,7 +6,7 @@ spring:
 
 alibaba:
   cloud:
-    access-key: LTAI5tBQPRdinrhu4m5RCGiD
-    secret-key: 6vq1RCzPcSWdKEQWmKjbAsgwDaZ0X0
+    access-key: XXXX
+    secret-key: XXXX
     oss:
       endpoint: oss-cn-hangzhou.aliyuncs.com
